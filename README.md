@@ -62,6 +62,8 @@ Fact and Dimension tables are connected via one-to-many relationships, eliminati
 <img width="512" height="409" alt="model" src="https://github.com/user-attachments/assets/e36db06d-f339-4d9d-9be7-a2650f848d06" />
 
 
+
+
 **Custom DAX Measure Library:**
 Over 20 explicitly defined DAX measures calculate core KPIs, Year-over-Year growth, and handle blank-value logical formatting.
 
